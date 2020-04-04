@@ -1,0 +1,75 @@
+
+
+/**********************TAG SELECTORS**********************/
+
+body
+{
+  background-color: #f8fab8;
+}
+
+h1
+{
+  color: #204051;
+}
+
+h2
+{
+  color: #204051;
+}
+
+h3
+{
+  color: #204051;
+}
+
+img:hover  /*this is called sudo classes*/
+{
+  filter: blur(1px);
+}
+
+/**********************CLASSES SELECTORS**********************/
+
+.art1
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #af0404;
+  opacity: 0.7;
+  width: 10%;
+  border-width: 7px;
+}
+
+.art2
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #af0404;
+  opacity: 0.7;
+  margin-right: 50%;
+  border-width: 5px;
+}
+
+.std
+{
+  border-style: none;
+  background-color: #af0404;
+  opacity: 0.7;
+  height: 1px;
+}
+
+.imgcirc
+{
+  border-radius: 10%;
+}
+
+.imgsmkd
+{
+  filter: blur(1px);
+}
+/**********************ID SELECTORS*********************
+
+#heading
+{
+  color: #af0404;
+}
+*/
